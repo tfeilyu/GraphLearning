@@ -5,13 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="92e53b2b-b7f9-49b8-9605-dd21a531b180" name="Changes" comment="jupyter">
-      <change beforePath="$PROJECT_DIR$/Untitled.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Untitled.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ChangesViewManager" show_ignored="true" />
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -52,7 +53,7 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -133,7 +134,8 @@
       <workItem from="1650687391604" duration="489000" />
       <workItem from="1650687903044" duration="123000" />
       <workItem from="1650688387604" duration="442000" />
-      <workItem from="1650779367496" duration="1252000" />
+      <workItem from="1650779367496" duration="1638000" />
+      <workItem from="1650783070437" duration="788000" />
     </task>
     <task id="LOCAL-00001" summary="jupyter">
       <created>1650598205929</created>
@@ -184,7 +186,35 @@
       <option name="project" value="LOCAL" />
       <updated>1650780361736</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="jupyter">
+      <created>1650780962253</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1650780962253</updated>
+    </task>
+    <task id="LOCAL-00009" summary="jupyter">
+      <created>1650783124421</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1650783124421</updated>
+    </task>
+    <task id="LOCAL-00010" summary="jupyter">
+      <created>1650783239997</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1650783239997</updated>
+    </task>
+    <task id="LOCAL-00011" summary="jupyter">
+      <created>1650783753434</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1650783753434</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
