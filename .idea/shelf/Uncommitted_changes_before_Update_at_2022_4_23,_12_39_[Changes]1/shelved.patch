@@ -1,0 +1,54 @@
+Index: sss.md
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/sss.md b/sss.md
+new file mode 100644
+--- /dev/null	
++++ b/sss.md	
+@@ -0,0 +1,1 @@
++sa
+\ No newline at end of file
+Index: s.md
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/s.md b/s.md
+new file mode 100644
+--- /dev/null	
++++ b/s.md	
+@@ -0,0 +1,12 @@
++$s_s$你是是
++
++# 是
++
++$$
++\Gamma(z) = \int_0^\infty t^{z-1}e^{-t}dt\,.
++
++$$
++
++## 撒
++
++### 按时
+Index: a.md
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/a.md b/a.md
+new file mode 100644
+--- /dev/null	
++++ b/a.md	
+@@ -0,0 +1,10 @@
++# 谨慎
++
++$1_a$
++
++$$
++\Gamma(z) = \int_0^\infty t^{z-1}e^{-t}dt\,.
++
++$$
++
++$s_s$
