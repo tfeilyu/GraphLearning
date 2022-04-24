@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="92e53b2b-b7f9-49b8-9605-dd21a531b180" name="Changes" comment="" />
+    <list default="true" id="92e53b2b-b7f9-49b8-9605-dd21a531b180" name="Changes" comment="jupyter">
+      <change beforePath="$PROJECT_DIR$/Untitled.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Untitled.ipynb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -131,7 +133,7 @@
       <workItem from="1650687391604" duration="489000" />
       <workItem from="1650687903044" duration="123000" />
       <workItem from="1650688387604" duration="442000" />
-      <workItem from="1650779367496" duration="856000" />
+      <workItem from="1650779367496" duration="1252000" />
     </task>
     <task id="LOCAL-00001" summary="jupyter">
       <created>1650598205929</created>
@@ -175,11 +177,29 @@
       <option name="project" value="LOCAL" />
       <updated>1650780209741</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="jupyter">
+      <created>1650780361736</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1650780361736</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="jupyter" />
