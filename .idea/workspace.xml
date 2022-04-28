@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="92e53b2b-b7f9-49b8-9605-dd21a531b180" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-    </list>
+    <list default="true" id="92e53b2b-b7f9-49b8-9605-dd21a531b180" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -145,7 +143,7 @@
       <workItem from="1650938558595" duration="1893000" />
       <workItem from="1651044895205" duration="284000" />
       <workItem from="1651129951109" duration="1240000" />
-      <workItem from="1651136599706" duration="1889000" />
+      <workItem from="1651136599706" duration="2055000" />
     </task>
     <task id="LOCAL-00001" summary="jupyter">
       <created>1650598205929</created>
@@ -280,7 +278,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651139902382</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="jupyter">
+      <created>1651140039492</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1651140039492</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
